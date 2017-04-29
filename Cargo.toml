@@ -1,0 +1,7 @@
+[package]
+name = "fluxoxide"
+version = "0.1.0"
+authors = ["Andrew Vy <andrew@andrewvy.com>"]
+
+[dependencies]
+termion = "*"
